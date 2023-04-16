@@ -1,5 +1,5 @@
+# SourceCodes for Stream Learning
 
-SourceCodes for Stream Learning
 
 @ARTICLE{ZHOU_TNNLS2022, 
   author={Zhou, Peng and Wang, Ni and Zhao, Shu and Zhang, Yanping and Wu, Xindong}, 
