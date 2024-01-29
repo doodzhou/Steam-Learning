@@ -1,11 +1,18 @@
 @ARTICLE{ZHOU_TNNLS2022,
   author={Zhou, Peng and Wang, Ni and Zhao, Shu and Zhang, Yanping and Wu, Xindong},
+  
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  
   title={Difficult Novel Class Detection in Semisupervised Streaming Data}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-15},
+  
+  year={2023},
+  
+  volume={34},
+  
+  number={10},
+  
+  pages={6872--6886},
+  
   doi={10.1109/TNNLS.2022.3213682}
  }
  
