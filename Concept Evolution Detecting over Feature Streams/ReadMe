@@ -1,0 +1,15 @@
+Concept Evolution Detecting over Feature Streams
+
+Abstract: The explosion of data volume has gradually transformed big data processing from the static batch mode to the
+online streaming model. Streaming data can be divided into instance streams (feature space remains fixed
+while instances increase over time), feature streams (instance space is fixed while features arrive over time), or
+both. Generally, online streaming data learning has two main challenges: infinite length and concept changing.
+Recently, feature stream learning has received much attention. However, existing feature stream learning
+methods focus on feature selection or classification but ignore the concept changing over time. To the best of
+our knowledge, this is the first work that studies concept evolution detection over feature streams. Specifically,
+we first give the formal definition of concept evolution over feature streams, which include three different
+types: concept emerging, concept drift, and concept forgetting. Then, we design a novel framework to detect
+the concept evolution over feature streams that consists of a sliding window, an improved density peak-based
+clustering algorithm, and a weighted bipartite graph-based concept detecting method. Extensive experiments
+have been conducted on several synthetic and high-dimensional datasets to indicate our new method’s ability
+to cluster and detect concept evolution over feature streams.
